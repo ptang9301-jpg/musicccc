@@ -1,0 +1,7 @@
+{
+  "name": "Sonic Ether",
+  "description": "An immersive AI-powered music generation platform that transforms your ideas into atmospheric soundscapes using advanced synthesis and Apple-inspired design.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
